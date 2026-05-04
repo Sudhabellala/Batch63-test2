@@ -10,6 +10,10 @@ public class Customer {
 	Customer() {
 		this(18);//constructor calling in same class
 		System.out.println("No arg constructor called");
+		System.out.println("No arg constructor called");
+
+		System.out.println("No arg constructor called");
+
 	}
 	
 	Customer(int age){
